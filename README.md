@@ -1,0 +1,1 @@
+# Image-to-Text-Generation-A-Vision-Language-Model-for-Automated-Image-Captioning
