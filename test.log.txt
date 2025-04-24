@@ -1,0 +1,8 @@
+
+🟦 Average BLEU score on 1000 test images: 0.0498
+🟥 ROUGE scores:
+  rouge1: 0.3254
+  rouge2: 0.1107
+  rougeL: 0.2952
+  rougeLsum: 0.2952
+📁 Results saved to blip_test_output.json

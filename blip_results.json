@@ -1,0 +1,102 @@
+[
+  {
+    "image": "1000092795.jpg",
+    "ground_truth": "Two young guys with shaggy hair look at their hands while hanging out in the yard .",
+    "blip_caption": "a man standing in the grass"
+  },
+  {
+    "image": "1000092795.jpg",
+    "ground_truth": "Two young , White males are outside near many bushes .",
+    "blip_caption": "a man standing in the grass"
+  },
+  {
+    "image": "1000092795.jpg",
+    "ground_truth": "Two men in green shirts are standing in a yard .",
+    "blip_caption": "a man standing in the grass"
+  },
+  {
+    "image": "1000092795.jpg",
+    "ground_truth": "A man in a blue shirt standing in a garden .",
+    "blip_caption": "a man standing in the grass"
+  },
+  {
+    "image": "1000092795.jpg",
+    "ground_truth": "Two friends enjoy time spent together .",
+    "blip_caption": "a man standing in the grass"
+  },
+  {
+    "image": "10002456.jpg",
+    "ground_truth": "Several men in hard hats are operating a giant pulley system .",
+    "blip_caption": "a metal tower"
+  },
+  {
+    "image": "10002456.jpg",
+    "ground_truth": "Workers look down from up above on a piece of equipment .",
+    "blip_caption": "a metal tower"
+  },
+  {
+    "image": "10002456.jpg",
+    "ground_truth": "Two men working on a machine wearing hard hats .",
+    "blip_caption": "a metal tower"
+  },
+  {
+    "image": "10002456.jpg",
+    "ground_truth": "Four men on top of a tall structure .",
+    "blip_caption": "a metal tower"
+  },
+  {
+    "image": "10002456.jpg",
+    "ground_truth": "Three men on a large rig .",
+    "blip_caption": "a metal tower"
+  },
+  {
+    "image": "1000268201.jpg",
+    "ground_truth": "A child in a pink dress is climbing up a set of stairs in an entry way .",
+    "blip_caption": "a little girl in a pink dress"
+  },
+  {
+    "image": "1000268201.jpg",
+    "ground_truth": "A little girl in a pink dress going into a wooden cabin .",
+    "blip_caption": "a little girl in a pink dress"
+  },
+  {
+    "image": "1000268201.jpg",
+    "ground_truth": "A little girl climbing the stairs to her playhouse .",
+    "blip_caption": "a little girl in a pink dress"
+  },
+  {
+    "image": "1000268201.jpg",
+    "ground_truth": "A little girl climbing into a wooden playhouse",
+    "blip_caption": "a little girl in a pink dress"
+  },
+  {
+    "image": "1000268201.jpg",
+    "ground_truth": "A girl going into a wooden building .",
+    "blip_caption": "a little girl in a pink dress"
+  },
+  {
+    "image": "1000344755.jpg",
+    "ground_truth": "Someone in a blue shirt and hat is standing on stair and leaning against a window .",
+    "blip_caption": "a man on a ladder"
+  },
+  {
+    "image": "1000344755.jpg",
+    "ground_truth": "A man in a blue shirt is standing on a ladder cleaning a window .",
+    "blip_caption": "a man on a ladder"
+  },
+  {
+    "image": "1000344755.jpg",
+    "ground_truth": "A man on a ladder cleans the window of a tall building .",
+    "blip_caption": "a man on a ladder"
+  },
+  {
+    "image": "1000344755.jpg",
+    "ground_truth": "man in blue shirt and jeans on ladder cleaning windows",
+    "blip_caption": "a man on a ladder"
+  },
+  {
+    "image": "1000344755.jpg",
+    "ground_truth": "a man on a ladder cleans a window",
+    "blip_caption": "a man on a ladder"
+  }
+]
